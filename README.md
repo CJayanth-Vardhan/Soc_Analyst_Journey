@@ -2,7 +2,7 @@
 
 This repository documents my hands-on learning journey toward becoming a **SOC Analyst (Level 1)**.
 
-## 🎯 Objective
+## 🎯 Objective 
 To build strong Blue Team skills through:
 - SIEM monitoring
 - Log analysis
